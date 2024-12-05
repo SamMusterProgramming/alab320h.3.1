@@ -1,0 +1,7 @@
+.learner{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    border: 1px solid  gray;
+}
