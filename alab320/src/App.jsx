@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
-import { Learner } from './assets/learner/Learner'
+import { Learner } from './components/learner/Learner'
 
 function App() {
   const [learnerData, setLearnerData] = useState({
